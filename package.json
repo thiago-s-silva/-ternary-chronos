@@ -4,7 +4,8 @@
   "description": "A lightweight and easy-to-use pure JavaScript date and time library.",
   "main": "index.js",
   "scripts": {
-    "build": "babel --out-file dist/main.js src/index.ts"
+    "build": "babel --out-file dist/main.js src/index.ts",
+    "docs": "compodoc -p tsconfig.doc.json -s"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
     "@babel/cli": "^7.23.0",
     "@babel/core": "^7.23.2",
     "@babel/preset-typescript": "^7.23.2",
+    "@compodoc/compodoc": "^1.1.22",
     "@typescript-eslint/eslint-plugin": "^6.4.0",
     "eslint": "^8.0.1",
     "eslint-config-standard-with-typescript": "^39.1.1",
