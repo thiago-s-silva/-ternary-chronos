@@ -1,0 +1,22 @@
+{
+  "name": "@ternary/chronos",
+  "version": "1.0.0",
+  "description": "A lightweight and easy-to-use pure JavaScript date and time library.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thiago-s-silva/-ternary-chronos.git"
+  },
+  "keywords": [
+    "javascript;date;time"
+  ],
+  "author": "Thiago Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiago-s-silva/-ternary-chronos/issues"
+  },
+  "homepage": "https://github.com/thiago-s-silva/-ternary-chronos#readme"
+}
