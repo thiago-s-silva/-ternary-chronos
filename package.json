@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/thiago-s-silva/-ternary-chronos/issues"
   },
-  "homepage": "https://github.com/thiago-s-silva/-ternary-chronos#readme"
+  "homepage": "https://github.com/thiago-s-silva/-ternary-chronos#readme",
+  "packageManager": "yarn@4.0.1"
 }
